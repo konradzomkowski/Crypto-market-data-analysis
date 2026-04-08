@@ -5,7 +5,6 @@ Projekt w Pythonie pokazujący bieżącą cenę BTC/USDT, analizę procentowej z
 ## Funkcjonalności
 - Pobiera aktualną cenę BTC/USDT
 - Pobiera historyczne dane świec (ostatnie 30 minut)
-- Oblicza procentową zmianę ceny
 - Generuje wykres ceny zamknięcia 
 
 ## Technologie
